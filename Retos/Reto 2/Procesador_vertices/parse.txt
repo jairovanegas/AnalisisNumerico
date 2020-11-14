@@ -1,0 +1,2 @@
+lines3D(nivel_$[,1:1], nivel_$[,2:2], nivel_$[,3:3], colvar=NULL, col=$, lwd=3, add = TRUE)
+19
